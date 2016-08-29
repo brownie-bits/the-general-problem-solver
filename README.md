@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/images/gps_diagram.jpg"/>
 </p>
-# The General Problem Solver Program
+# Brownie's General Problem Solver Program
 
 Herbert Simon, J.C Shaw and Allen Newell's General Problem Solver Program (GPS) is one of the earliest AI program in existence, succeeding the [Logic Theorist Program](https://en.wikipedia.org/wiki/Logic_Theorist) which arguably was the first AI program. The repo contains implementations of the GPS in multiple programming languages.
 
@@ -12,6 +12,10 @@ Herbert Simon, J.C Shaw and Allen Newell's General Problem Solver Program (GPS) 
 * [Java](/general_problem_solver.java)
 * [C](/general_problem_solver_C/) (In Progress...)  
 * [C++](/gps_cpp/) (In Progress...)
+
+### Languages Implemented By Brownie
+
+* [Haskell](/) (In Progress...)
 
 ### Other Resources For Understanding
 
